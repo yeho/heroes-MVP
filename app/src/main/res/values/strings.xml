@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Hero</string>
+  <string name="loading">Cargando...</string>
+  <string name="comics_donde_aparece">Comics donde aparece:</string>
+</resources>
